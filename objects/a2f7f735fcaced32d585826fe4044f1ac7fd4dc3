@@ -6,3 +6,8 @@
 	path = contrib/module
 	stage = sync
 	type = expand module
+[map "be74ff9a-1866-3a5c-93b9-e1b348cf498f"]
+	object = adb544f4735dd58f94e382cc3c2f627c966b9011
+	path = contrib/module2
+	stage = sync
+	type = expand module
