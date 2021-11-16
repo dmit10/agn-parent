@@ -11,3 +11,5 @@
 	path = contrib/module2
 	stage = sync
 	type = expand module
+[object]
+	state = initial
