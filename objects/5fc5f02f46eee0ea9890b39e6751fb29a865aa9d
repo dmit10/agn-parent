@@ -2,3 +2,15 @@
 	object = 2c0379add2b02967de8eee254b512c291490c036
 	path = module
 	type = expand module
+[map "df02c96e-3a5c-324f-9264-f57d5337657c"]
+	object = b93495b4910d90096ca7b9056ea3ce013dd5bc3a
+	path = module1
+	type = expand module
+[map "fa106963-e938-3add-a7e0-aee3e26df7a1"]
+	object = b93495b4910d90096ca7b9056ea3ce013dd5bc3a
+	path = module2
+	type = expand module
+[map "ac4badd8-8304-3ab5-8f88-733a418e3819"]
+	object = b93495b4910d90096ca7b9056ea3ce013dd5bc3a
+	path = module3
+	type = expand module
